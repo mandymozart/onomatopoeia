@@ -1,6 +1,7 @@
 {
   "name": "onomatopoeia",
   "private": true,
+  "homepage": "https://mandymozart.github.io/onomatopoeia",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
