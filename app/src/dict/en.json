@@ -1,0 +1,2617 @@
+{
+  "language": "enUS",
+  "description": "Fundamental US English sounds in various categories for use in Graphic Novels and Composition",
+  "categories": [
+    {
+      "category": "Elements",
+      "description": "The elements earth, fire, water and wind",
+      "children": [
+        {
+          "category": "Earth",
+          "description": "The elements earth, fire, water and wind",
+          "children": [
+            {
+              "word": "Leaves",
+              "onomatopoeia": [
+                "Crackle",
+                "Crunch",
+                "Bat",
+                "Beat",
+                "Flap",
+                "Flitter",
+                "Flutter",
+                "Pulsate",
+                "Rustle",
+                "Racket",
+                "Scrap",
+                "Scratch",
+                "Whack",
+                "Whoosh"
+              ]
+            },
+            {
+              "word": "Trees",
+              "onomatopoeia": [
+                "Crackle",
+                "Groan",
+                "Rustle",
+                "Swish",
+                "Whisper",
+                "Whoosh",
+                "Thump"
+              ]
+            },
+            {
+              "word": "Mud slide",
+              "onomatopoeia": [
+                "Babble",
+                "Burble",
+                "Croon",
+                "Glunk",
+                "Gurgle",
+                "Gush",
+                "Heave",
+                "Murmur",
+                "Prattle",
+                "Ripple",
+                "Splash",
+                "Slop",
+                "Slosh",
+                "Spurt",
+                "Smoosh",
+                "Squash",
+                "Squirt",
+                "Squish",
+                "Stream",
+                "Surge",
+                "Swill",
+                "Trickle",
+                "Warble",
+                "Whoosh"
+              ]
+            },
+            {
+              "word": "Mud Puddle",
+              "onomatopoeia": [
+                "Flop",
+                "Plop",
+                "Smack",
+                "Spatter",
+                "Splat",
+                "Splatter",
+                "Squish",
+                "Splash",
+                "Splish"
+              ]
+            },
+            {
+              "word": "Dirt road",
+              "onomatopoeia": [
+                "Bump",
+                "Hollow Thud",
+                "Pat",
+                "Slap",
+                "Smack",
+                "Spank"
+              ]
+            },
+            {
+              "word": "Earthquake",
+              "onomatopoeia": [
+                "Bang",
+                "Bash",
+                "Bump",
+                "Crack",
+                "Crash",
+                "Crunch",
+                "Pop",
+                "Shatter",
+                "Snap",
+                "Rattle",
+                "Whack",
+                "Wallop"
+              ]
+            },
+            {
+              "word": "Avalanche",
+              "onomatopoeia": [
+                "Prattle",
+                "Rattle",
+                "Roar",
+                "Shhhish",
+                "Swish",
+                "Swoosh"
+              ]
+            },
+            {
+              "word": "Sinkholes",
+              "onomatopoeia": ["Bump", "Crash", "Crush", "Plop", "Thump"]
+            }
+          ]
+        },
+        {
+          "category": "Fire",
+          "children": [
+            {
+              "word": "Burning Building",
+              "onomatopoeia": ["crash", "roar", "splinter"]
+            },
+            {
+              "word": "Camp Fire",
+              "onomatopoeia": [
+                "crackle",
+                "fizzle",
+                "hiss",
+                "sizzle",
+                "spit",
+                "sputter"
+              ]
+            },
+            {
+              "word": "Forest Fire",
+              "onomatopoeia": ["bellow", "roar"]
+            },
+            {
+              "word": "Match",
+              "onomatopoeia": ["hiss", "spit", "sputter", "susshhh"]
+            },
+            {
+              "word": "Volcano",
+              "onomatopoeia": [
+                "boom",
+                "burst",
+                "grumble",
+                "hiss",
+                "kaboom",
+                "moan",
+                "mumble",
+                "rumble",
+                "whoosh"
+              ]
+            },
+            {
+              "word": "Lightening",
+              "onomatopoeia": ["crack", "slash"]
+            },
+            {
+              "word": "Fireplace",
+              "onomatopoeia": ["crackle", "hiss", "sputter", "spitter"]
+            }
+          ]
+        },
+        {
+          "category": "Water",
+          "children": [
+            {
+              "word": "Brook",
+              "onomatopoeia": [
+                "babble",
+                "bubble",
+                "churn",
+                "lap",
+                "gurgle",
+                "mumble",
+                "murmur",
+                "ripple",
+                "splash"
+              ]
+            },
+            {
+              "word": "Creek",
+              "onomatopoeia": ["babble", "churn", "lap", "murmur", "splash"]
+            },
+            {
+              "word": "Mountain stream",
+              "onomatopoeia": []
+            },
+            {
+              "word": "Hail",
+              "onomatopoeia": [
+                "beat",
+                "clink",
+                "clank",
+                "clunk",
+                "drum",
+                "pelt",
+                "ping",
+                "plink",
+                "plunk",
+                "ponk",
+                "pound",
+                "rap",
+                "rattle",
+                "stutter",
+                "tap",
+                "tink"
+              ]
+            },
+            {
+              "word": "Ice",
+              "onomatopoeia": [
+                "crack",
+                "crackle",
+                "pop",
+                "shatter",
+                "snap",
+                "splinter",
+                "squeak"
+              ]
+            },
+            {
+              "word": "Lake",
+              "onomatopoeia": ["churn", "lap", "ripple", "slap", "splash"]
+            },
+            {
+              "word": "Ocean",
+              "onomatopoeia": [
+                "crash",
+                "churn",
+                "lap",
+                "pound",
+                "roil",
+                "slam",
+                "slap",
+                "splash",
+                "thunder"
+              ]
+            },
+            {
+              "word": "Pond",
+              "onomatopoeia": ["churn", "lap", "ripple", "slap", "splash"]
+            },
+            {
+              "word": "Rain",
+              "onomatopoeia": [
+                "beat",
+                "drip",
+                "drop",
+                "drum",
+                "kerplunk",
+                "lash",
+                "patter",
+                "pelt",
+                "pink",
+                "plop",
+                "ponk",
+                "rat-a-tat tat",
+                "rattle",
+                "shatter",
+                "slap",
+                "slash",
+                "splash",
+                "splat",
+                "splatter",
+                "slosh",
+                "splish",
+                "splosh",
+                "thump"
+              ]
+            },
+            {
+              "word": "River",
+              "onomatopoeia": ["churn", "lap", "ripple", "splash"]
+            },
+            {
+              "word": "Sleet",
+              "onomatopoeia": [
+                "clink",
+                "clank",
+                "clunk",
+                "ding",
+                "drum",
+                "pelt",
+                "ping",
+                "plink",
+                "plonk",
+                "ponk",
+                "rap",
+                "rat-a-tat tat",
+                "rattle",
+                "slash",
+                "tink"
+              ]
+            },
+            {
+              "word": "Snow",
+              "onomatopoeia": ["crunch", "slosh", "tinkle"]
+            },
+            {
+              "word": "Tsunami",
+              "onomatopoeia": ["churn", "crash", "slam", "slash", "thunder"]
+            },
+            {
+              "word": "Water Fall",
+              "onomatopoeia": [
+                "bubble",
+                "churn",
+                "crash",
+                "slam",
+                "splash",
+                "thud",
+                "thunder"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Wind",
+          "children": [
+            {
+              "word": "Breeze",
+              "onomatopoeia": [
+                "Blast",
+                "Crackle",
+                "Hiss",
+                "Purr",
+                "Swish",
+                "Swoosh",
+                "Rush",
+                "Rustle",
+                "Whisper",
+                "Whoosh"
+              ]
+            },
+            {
+              "word": "Hurricane",
+              "onomatopoeia": [
+                "Bellow",
+                "Blast",
+                "Growl",
+                "Groan",
+                "Grumble",
+                "Howl",
+                "Moan",
+                "Roar",
+                "Rumble",
+                "Swoosh",
+                "Wail",
+                "Whiz",
+                "Woo"
+              ]
+            },
+            {
+              "word": "Tornado",
+              "onomatopoeia": [
+                "Bellow",
+                "Blast",
+                "Growl",
+                "Groan",
+                "Grumble",
+                "Howl",
+                "Moan",
+                "Roar",
+                "Rumble",
+                "Swoosh",
+                "Wail",
+                "Whiz",
+                "Woo"
+              ]
+            },
+            {
+              "word": "Storm",
+              "onomatopoeia": [
+                "Bang",
+                "Crackle",
+                "Crush",
+                "Lightning crack",
+                "Pounding rain",
+                "Roar",
+                "Rushing wind",
+                "Rumbling thunder",
+                "Swishing trees",
+                "Swooshing limbs"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Animals & Movements",
+      "description": "The zoo of life",
+      "children": [
+        {
+          "word": "Alligators",
+          "onomatopoeia": ["hiss", "grunt", "roar", "ugh-ugh"]
+        },
+        {
+          "word": "Antelope",
+          "onomatopoeia": ["snort"]
+        },
+        {
+          "word": "Badgers",
+          "onomatopoeia": ["growl"]
+        },
+        {
+          "word": "Bats",
+          "onomatopoeia": ["screech"]
+        },
+        {
+          "word": "Bears",
+          "onomatopoeia": ["growl", "groan", "moan", "roar"]
+        },
+        {
+          "word": "Bees",
+          "onomatopoeia": ["hum", "buzz", "zooom"]
+        },
+        {
+          "word": "Beetles",
+          "onomatopoeia": ["drone", "click"]
+        },
+        {
+          "word": "Birds",
+          "onomatopoeia": [
+            "chirrup",
+            "chirp",
+            "twitter",
+            "tweet",
+            "sing",
+            "whistle",
+            "cluck",
+            "coo",
+            "flap",
+            "flutter",
+            "whoosh",
+            "swoosh",
+            "screech"
+          ]
+        },
+        {
+          "word": "Bitterns",
+          "onomatopoeia": ["boom"]
+        },
+        {
+          "word": "Blackbirds",
+          "onomatopoeia": ["whistle"]
+        },
+        {
+          "word": "Bonobos",
+          "onomatopoeia": [
+            "chirp",
+            "squeal",
+            "screech",
+            "shriek",
+            "squeak",
+            "hoot"
+          ]
+        },
+        {
+          "word": "Calves",
+          "onomatopoeia": ["bleat"]
+        },
+        {
+          "word": "Camels",
+          "onomatopoeia": ["grunt"]
+        },
+        {
+          "word": "Capuchins",
+          "onomatopoeia": ["chirp", "chatter", "trill"]
+        },
+        {
+          "word": "Cats",
+          "onomatopoeia": [
+            "mew",
+            "purr",
+            "meow",
+            "hiss",
+            "yowl",
+            "caterwaul",
+            "scratch"
+          ]
+        },
+        {
+          "word": "Cattle",
+          "onomatopoeia": ["moo", "low", "bawl", "bellow", "huff"]
+        },
+        {
+          "word": "Chaffinch",
+          "onomatopoeia": ["ow"]
+        },
+        {
+          "word": "Chickens",
+          "onomatopoeia": [
+            "cluck",
+            "cackle",
+            "bock",
+            "chirp",
+            "crow",
+            "screech",
+            "peep",
+            "pruck",
+            "squawk"
+          ]
+        },
+        {
+          "word": "Chimpanzees",
+          "onomatopoeia": [
+            "pant-hoot",
+            "grunt",
+            "scream",
+            "chatter",
+            "screech",
+            "bark"
+          ]
+        },
+        {
+          "word": "Chinchillas",
+          "onomatopoeia": ["squeak"]
+        },
+        {
+          "word": "Cicadas",
+          "onomatopoeia": ["chirp"]
+        },
+        {
+          "word": "Cows",
+          "onomatopoeia": ["moo", "low"]
+        },
+        {
+          "word": "Coyotes",
+          "onomatopoeia": ["yelp", "cry", "snarl"]
+        },
+        {
+          "word": "Crab",
+          "onomatopoeia": ["click", "clack", "hiss"]
+        },
+        {
+          "word": "Crickets",
+          "onomatopoeia": ["chirp", "creak"]
+        },
+        {
+          "word": "Crows",
+          "onomatopoeia": ["caw", "cah"]
+        },
+        {
+          "word": "Cuckoos",
+          "onomatopoeia": ["coo", "cuckoo"]
+        },
+        {
+          "word": "Curlews",
+          "onomatopoeia": ["pipe"]
+        },
+        {
+          "word": "Deer",
+          "onomatopoeia": ["bell"]
+        },
+        {
+          "word": "Dingos",
+          "onomatopoeia": ["bark", "cry"]
+        },
+        {
+          "word": "Dogs",
+          "onomatopoeia": [
+            "bark",
+            "woof",
+            "arf",
+            "bay",
+            "bow-wow",
+            "howl",
+            "yap",
+            "ruff",
+            "growl"
+          ]
+        },
+        {
+          "word": "Dolphins",
+          "onomatopoeia": ["click"]
+        },
+        {
+          "word": "Donkeys",
+          "onomatopoeia": ["bray", "hee-haw"]
+        },
+        {
+          "word": "Doves",
+          "onomatopoeia": ["coo-coo"]
+        },
+        {
+          "word": "Ducks",
+          "onomatopoeia": ["quack", "splitter", "splatter"]
+        },
+        {
+          "word": "Eagles",
+          "onomatopoeia": ["scream"]
+        },
+        {
+          "word": "Elephants",
+          "onomatopoeia": [
+            "trumpet",
+            "roar",
+            "moan",
+            "rumble",
+            "baraag",
+            "thunk",
+            "thump"
+          ]
+        },
+        {
+          "word": "Emus",
+          "onomatopoeia": ["drum"]
+        },
+        {
+          "word": "Falcons",
+          "onomatopoeia": ["chant"]
+        },
+        {
+          "word": "Ferrets",
+          "onomatopoeia": ["dook"]
+        },
+        {
+          "word": "Flies",
+          "onomatopoeia": ["buzz", "hum", "zip"]
+        },
+        {
+          "word": "Foxes",
+          "onomatopoeia": ["bark", "yelp", "simper"]
+        },
+        {
+          "word": "Frogs",
+          "onomatopoeia": ["croak", "ribbit"]
+        },
+        {
+          "word": "Geese",
+          "onomatopoeia": [
+            "cackle",
+            "gobble",
+            "hiss",
+            "honk",
+            "quack",
+            "chatter",
+            "flap"
+          ]
+        },
+        {
+          "word": "Gibbons",
+          "onomatopoeia": ["whoop", "chirp", "screech", "wail"]
+        },
+        {
+          "word": "Giraffes",
+          "onomatopoeia": ["bleat"]
+        },
+        {
+          "word": "Goats",
+          "onomatopoeia": ["bleat", "baa"]
+        },
+        {
+          "word": "Gorillas",
+          "onomatopoeia": ["hoot", "bark", "grunt", "whine", "pock", "pant"]
+        },
+        {
+          "word": "Grasshoppers",
+          "onomatopoeia": ["chirp", "cricket"]
+        },
+        {
+          "word": "Guinea pigs",
+          "onomatopoeia": ["squeak"]
+        },
+        {
+          "word": "Hamsters",
+          "onomatopoeia": ["squeak"]
+        },
+        {
+          "word": "Hares",
+          "onomatopoeia": ["squeak"]
+        },
+        {
+          "word": "Hens",
+          "onomatopoeia": ["cackle", "cluck"]
+        },
+        {
+          "word": "Hermit crabs",
+          "onomatopoeia": ["chirp"]
+        },
+        {
+          "word": "Hippopotamuses",
+          "onomatopoeia": ["bellow", "rumble", "roar", "growl"]
+        },
+        {
+          "word": "Hogs",
+          "onomatopoeia": ["grunt", "snort"]
+        },
+        {
+          "word": "Horses",
+          "onomatopoeia": [
+            "neigh",
+            "snort",
+            "whinny",
+            "nicker",
+            "sputter",
+            "galloping",
+            "trot",
+            "clomp",
+            "clip",
+            "clop",
+            "stomp"
+          ]
+        },
+        {
+          "word": "Hummingbirds",
+          "onomatopoeia": ["hum", "twitter"]
+        },
+        {
+          "word": "Hyenas",
+          "onomatopoeia": ["laugh", "scream", "whoop"]
+        },
+        {
+          "word": "Jackals",
+          "onomatopoeia": ["gecker", "howl"]
+        },
+        {
+          "word": "Jays",
+          "onomatopoeia": ["chatter", "screech"]
+        },
+        {
+          "word": "Kangaroos",
+          "onomatopoeia": ["chortle"]
+        },
+        {
+          "word": "Koalas",
+          "onomatopoeia": ["scream", "bellow", "wail"]
+        },
+        {
+          "word": "Komodo dragons",
+          "onomatopoeia": ["growl", "snarl", "hiss"]
+        },
+        {
+          "word": "Lambs",
+          "onomatopoeia": ["bleat", "baa"]
+        },
+        {
+          "word": "Larks",
+          "onomatopoeia": ["sing", "warble"]
+        },
+        {
+          "word": "Linnets",
+          "onomatopoeia": ["chuckle"]
+        },
+        {
+          "word": "Lions",
+          "onomatopoeia": ["roar", "growl"]
+        },
+        {
+          "word": "Llamas",
+          "onomatopoeia": ["maw"]
+        },
+        {
+          "word": "Magpies",
+          "onomatopoeia": ["chatter"]
+        },
+        {
+          "word": "Mice",
+          "onomatopoeia": ["squeak", "squeal"]
+        },
+        {
+          "word": "Monkeys",
+          "onomatopoeia": [
+            "chatter",
+            "gecker",
+            "gibber",
+            "whoop",
+            "screech",
+            "eek eek",
+            "howl"
+          ]
+        },
+        {
+          "word": "Moose",
+          "onomatopoeia": ["bellow"]
+        },
+        {
+          "word": "Mosquitoes",
+          "onomatopoeia": ["whine", "zzzzzzz", "hzzzzz"]
+        },
+        {
+          "word": "Narwhals",
+          "onomatopoeia": ["squeal"]
+        },
+        {
+          "word": "Nightingales",
+          "onomatopoeia": ["pipe", "sing", "warble"]
+        },
+        {
+          "word": "Okapis",
+          "onomatopoeia": ["cough", "bellow"]
+        },
+        {
+          "word": "Orangutans",
+          "onomatopoeia": [
+            "groan",
+            "grunt",
+            "smooch",
+            "wheeze",
+            "chirp",
+            "squeal",
+            "sputter"
+          ]
+        },
+        {
+          "word": "Ostriches",
+          "onomatopoeia": ["chirp", "bark", "hiss", "low hum"]
+        },
+        {
+          "word": "Owls",
+          "onomatopoeia": ["hoot", "scream", "screech", "shriek"]
+        },
+        {
+          "word": "Oxen",
+          "onomatopoeia": ["bellow", "low"]
+        },
+        {
+          "word": "Parrots",
+          "onomatopoeia": ["mimic a variety of sounds", "screech", "squawk"]
+        },
+        {
+          "word": "Peacocks",
+          "onomatopoeia": ["scream"]
+        },
+        {
+          "word": "Peafowls",
+          "onomatopoeia": ["scream"]
+        },
+        {
+          "word": "Penguins",
+          "onomatopoeia": ["whonk", "splash"]
+        },
+        {
+          "word": "Pigs",
+          "onomatopoeia": [
+            "snort",
+            "grunt",
+            "squeal",
+            "oink",
+            "slurp",
+            "slop",
+            "weeeeeee"
+          ]
+        },
+        {
+          "word": "Pigeons",
+          "onomatopoeia": ["coo"]
+        },
+        {
+          "word": "Porpoises",
+          "onomatopoeia": ["whistle", "click"]
+        },
+        {
+          "word": "Prairie dogs",
+          "onomatopoeia": ["bark"]
+        },
+        {
+          "word": "Puffins",
+          "onomatopoeia": ["chirp"]
+        },
+        {
+          "word": "Queleas",
+          "onomatopoeia": ["chatter"]
+        },
+        {
+          "word": "Rabbits",
+          "onomatopoeia": ["squeak", "drum"]
+        },
+        {
+          "word": "Raccoons",
+          "onomatopoeia": ["trill"]
+        },
+        {
+          "word": "Rats",
+          "onomatopoeia": ["squeak", "eek", "brux"]
+        },
+        {
+          "word": "Ravens",
+          "onomatopoeia": ["croak"]
+        },
+        {
+          "word": "Rhinoceros",
+          "onomatopoeia": ["bellow"]
+        },
+        {
+          "word": "Robins",
+          "onomatopoeia": ["chirp"]
+        },
+        {
+          "word": "Rooks",
+          "onomatopoeia": ["caw"]
+        },
+        {
+          "word": "Roosters",
+          "onomatopoeia": ["crow", "cock-a doodle-doo"]
+        },
+        {
+          "word": "Seagulls",
+          "onomatopoeia": ["scream", "squawk"]
+        },
+        {
+          "word": "Seals",
+          "onomatopoeia": ["bark"]
+        },
+        {
+          "word": "Sheep",
+          "onomatopoeia": ["bleat", "baa"]
+        },
+        {
+          "word": "Snakes",
+          "onomatopoeia": ["hiss", "rattle", "slither"]
+        },
+        {
+          "word": "Sparrows",
+          "onomatopoeia": ["chirp", "twitter"]
+        },
+        {
+          "word": "Squirrels",
+          "onomatopoeia": ["squeak", "chatter", "click"]
+        },
+        {
+          "word": "Stags",
+          "onomatopoeia": ["bellow"]
+        },
+        {
+          "word": "Swallows",
+          "onomatopoeia": ["twitter", "squeal"]
+        },
+        {
+          "word": "Swans",
+          "onomatopoeia": ["cry"]
+        },
+        {
+          "word": "Tapirs",
+          "onomatopoeia": ["whistle", "squeak"]
+        },
+        {
+          "word": "Tigers",
+          "onomatopoeia": ["growl", "roar", "snarl"]
+        },
+        {
+          "word": "Thrushes",
+          "onomatopoeia": ["whistle", "sing"]
+        },
+        {
+          "word": "Tokay Geckos",
+          "onomatopoeia": ["croak"]
+        },
+        {
+          "word": "Turkeys",
+          "onomatopoeia": ["gobble"]
+        },
+        {
+          "word": "Vervets",
+          "onomatopoeia": [
+            "chirp",
+            "chatter",
+            "grunt",
+            "bark",
+            "coo",
+            "sputter"
+          ]
+        },
+        {
+          "word": "Vultures",
+          "onomatopoeia": ["scream"]
+        },
+        {
+          "word": "Walruses",
+          "onomatopoeia": ["groan"]
+        },
+        {
+          "word": "Whales",
+          "onomatopoeia": ["sing"]
+        },
+        {
+          "word": "Wolves",
+          "onomatopoeia": ["howl", "cry", "yell", "aroo"]
+        },
+        {
+          "word": "Woodpecker",
+          "onomatopoeia": ["peck", "click"]
+        },
+        {
+          "word": "Wrens",
+          "onomatopoeia": ["trill", "warble"]
+        },
+        {
+          "word": "Zebras",
+          "onomatopoeia": ["whinny", "whoop"]
+        }
+      ]
+    },
+    {
+      "category": "Mythical Creatures",
+      "children": [
+        {
+          "word": "Gnome",
+          "onomatopoeia": ["nom nom"]
+        },
+        {
+          "word": "Giant or Troll",
+          "onomatopoeia": ["fee fi fo fum", "hmf", "crunch", "chomp"]
+        },
+        {
+          "word": "Fairy or Pixie",
+          "onomatopoeia": ["flutter/wisp", "eeeeet"]
+        },
+        {
+          "word": "Mermaid or Merman",
+          "onomatopoeia": ["croon", "swwissshh", "tehehe", "grrroooan"]
+        },
+        {
+          "word": "Siren",
+          "onomatopoeia": ["eeeeeeeee", "eeeoooohheee"]
+        },
+        {
+          "word": "Monster",
+          "onomatopoeia": ["roar/ tromp", "grrrrraaa"]
+        },
+        {
+          "word": "Pegasus",
+          "onomatopoeia": ["Fleww Fleww neigh"]
+        },
+        {
+          "word": "Hobbit",
+          "onomatopoeia": ["groan", "humpf"]
+        },
+        {
+          "word": "Witch or Wizard",
+          "onomatopoeia": [
+            "a hahahahahah",
+            "bwahahahahah",
+            "Abracadabra",
+            "alakazam"
+          ]
+        },
+        {
+          "word": "Unicorn",
+          "onomatopoeia": ["clickety clack/neighhh"]
+        },
+        {
+          "word": "Sylph",
+          "onomatopoeia": ["gurgled"]
+        },
+        {
+          "word": "Pirates",
+          "onomatopoeia": ["arrrr", "arrrgh"]
+        },
+        {
+          "word": "Dragons",
+          "onomatopoeia": ["roarrrr", "swoosh", "flap flap"]
+        },
+        {
+          "word": "Vampires",
+          "onomatopoeia": ["slurp", "vwahahaha", "glup glup", "chomp"]
+        },
+        {
+          "word": "Medusa",
+          "onomatopoeia": ["hissssss"]
+        },
+        {
+          "word": "Werewolf",
+          "onomatopoeia": ["howwwl", "scratch scratch", "ahhoooo"]
+        },
+        {
+          "word": "Alien",
+          "onomatopoeia": ["nanoo nanoo", "beeepbop", "earrrthling"]
+        },
+        {
+          "word": "Bigfoot",
+          "onomatopoeia": ["fum fum fum", "grrrrr"]
+        },
+        {
+          "word": "Abominable Snowman",
+          "onomatopoeia": ["plomp plomp", "ARRHHHHH"]
+        },
+        {
+          "word": "Santa Claus",
+          "onomatopoeia": ["ho ho ho"]
+        },
+        {
+          "word": "Easter Bunny",
+          "onomatopoeia": ["hop hop", "twitch"]
+        },
+        {
+          "word": "Leprechaun or Elf",
+          "onomatopoeia": ["hahaha", "blarney"]
+        },
+        {
+          "word": "Ghost",
+          "onomatopoeia": ["boo", "oooohh"]
+        },
+        {
+          "word": "Lochness Monster",
+          "onomatopoeia": ["gurgle", "swush swush"]
+        },
+        {
+          "word": "Dinosaur",
+          "onomatopoeia": ["boom", "bam"]
+        }
+      ]
+    },
+    {
+      "category": "Human",
+      "description": "Sounds made by the human body",
+      "children": [
+        {
+          "category": "People",
+          "children": [
+            {
+              "word": "Bodily Function",
+              "onomatopoeia": [
+                "Barf",
+                "Belch",
+                "Burp",
+                "Drool",
+                "Eungh (strain)",
+                "Gag",
+                "Itch",
+                "Hiccough",
+                "Pfft (fart)",
+                "Pshh (urinate)",
+                "Scritch",
+                "Scratch",
+                "Spit",
+                "Tinkle",
+                "Trickle"
+              ]
+            },
+            {
+              "word": "Cheer",
+              "onomatopoeia": ["Yahoo", "Yea", "Yeah", "Yowie"]
+            },
+            {
+              "word": "Choke",
+              "onomatopoeia": ["Argh", "Ark"]
+            },
+            {
+              "word": "Cold",
+              "onomatopoeia": ["Brr", "Chatter"]
+            },
+            {
+              "word": "Concentrate",
+              "onomatopoeia": ["Ngh"]
+            },
+            {
+              "word": "Cry",
+              "onomatopoeia": ["Bawl", "Boo Hoo", "Howl", "Sob"]
+            },
+            {
+              "word": "Drink",
+              "onomatopoeia": [
+                "Gag",
+                "Gargle",
+                "Glug",
+                "Gurgle",
+                "Scull",
+                "Sip",
+                "Slosh",
+                "Slurp",
+                "Splosh"
+              ]
+            },
+            {
+              "word": "Eat",
+              "onomatopoeia": [
+                "Burp",
+                "Chew",
+                "Chomp",
+                "Chow",
+                "Crackle",
+                "Crunch",
+                "Munch"
+              ]
+            },
+            {
+              "word": "Hit/Kick/Fight",
+              "onomatopoeia": [
+                "Bam",
+                "Bang",
+                "Bash",
+                "Bif",
+                "Boof",
+                "Clap",
+                "Clash",
+                "Kapow",
+                "Kick",
+                "Pow",
+                "Slam",
+                "Slap",
+                "Smack",
+                "Thump",
+                "Wallop",
+                "Whack",
+                "Wham"
+              ]
+            },
+            {
+              "word": "Fingers/Hands",
+              "onomatopoeia": ["Clack", "Click", "Snap"]
+            },
+            {
+              "word": "Heartbeat",
+              "onomatopoeia": ["Ta-thump"]
+            },
+            {
+              "word": "Ill/Sick",
+              "onomatopoeia": [
+                "Achoo",
+                "Arf",
+                "Barf",
+                "Bleh",
+                "Brr",
+                "Choo",
+                "Cough",
+                "Eugh",
+                "Hachoo",
+                "Splutter"
+              ]
+            },
+            {
+              "word": "Itch",
+              "onomatopoeia": ["Scritch", "Scratch"]
+            },
+            {
+              "word": "Laugh",
+              "onomatopoeia": [
+                "Cackle",
+                "Chortle",
+                "Giggle",
+                "Guffaw",
+                "Haha",
+                "Hehe",
+                "Hihi",
+                "Hoho",
+                "Snigger"
+              ]
+            },
+            {
+              "word": "Move/Walk",
+              "onomatopoeia": [
+                "Clatter",
+                "Crack",
+                "Crunch",
+                "Patter",
+                "Pitter",
+                "Pitter-patter",
+                "Rush",
+                "Shuffle",
+                "Slither",
+                "Stomp",
+                "Tiptoe"
+              ]
+            },
+            {
+              "word": "Patting",
+              "onomatopoeia": ["Pat", "Rap", "Tap"]
+            },
+            {
+              "word": "Pain",
+              "onomatopoeia": ["Ouch", "Owie"]
+            },
+            {
+              "word": "Sing",
+              "onomatopoeia": ["Hum", "Lalala", "Tralala"]
+            },
+            {
+              "word": "Sit",
+              "onomatopoeia": [
+                "Crash",
+                "Flop",
+                "Kerplunk",
+                "Plonk",
+                "Plop",
+                "Plunk",
+                "Poof"
+              ]
+            },
+            {
+              "word": "Sleep",
+              "onomatopoeia": ["Snore", "Zzz"]
+            },
+            {
+              "word": "Smell/Nose",
+              "onomatopoeia": [
+                "Achoo",
+                "Honk",
+                "Pong",
+                "Snarfle",
+                "Sneeze",
+                "Sniff",
+                "Snort",
+                "Snuffle"
+              ]
+            },
+            {
+              "word": "Stomach",
+              "onomatopoeia": ["Rumble"]
+            },
+            {
+              "word": "Strain",
+              "onomatopoeia": ["Nghh"]
+            },
+            {
+              "word": "Using a Toothpick",
+              "onomatopoeia": ["Splick"]
+            },
+            {
+              "word": "Talk",
+              "onomatopoeia": [
+                "Ahem",
+                "Blah",
+                "Blab",
+                "Blurt",
+                "Boo",
+                "Cackle",
+                "Chatter",
+                "Chitchat",
+                "Chitter",
+                "Click/Clack",
+                "Cluck",
+                "Gasp",
+                "Growl",
+                "Grunt",
+                "Mumble",
+                "Murmur",
+                "Mutter",
+                "Roar",
+                "Pst",
+                "Screech",
+                "Shh",
+                "Shush",
+                "Sigh",
+                "Ugh",
+                "Waffle",
+                "Whisper",
+                "Yelp",
+                "Yikes"
+              ]
+            },
+            {
+              "word": "Teeth",
+              "onomatopoeia": ["Ch ch", "Chatter", "Chew", "Crunch", "Gnaw"]
+            },
+            {
+              "word": "Whine",
+              "onomatopoeia": [
+                "Boo",
+                "Groan",
+                "Grunt",
+                "Hiss",
+                "Moan",
+                "Wheeze",
+                "Whimper"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Emotions",
+          "children": [
+            {
+              "word": "Admonish",
+              "onomatopoeia": ["Cluck", "Tsk"]
+            },
+            {
+              "word": "agreement",
+              "onomatopoeia": ["uhhuh"]
+            },
+            {
+              "word": "amazement",
+              "onomatopoeia": ["wow"]
+            },
+            {
+              "word": "annoyance",
+              "onomatopoeia": ["uggh"]
+            },
+            {
+              "word": "boredom",
+              "onomatopoeia": ["hohum"]
+            },
+            {
+              "word": "concern",
+              "onomatopoeia": ["uh-oh"]
+            },
+            {
+              "word": "confusion",
+              "onomatopoeia": ["huh"]
+            },
+            {
+              "word": "contempt",
+              "onomatopoeia": ["ah", "bah", "tsk", "meh"]
+            },
+            {
+              "word": "crying",
+              "onomatopoeia": ["boo-hoo", "weep", "sob"]
+            },
+            {
+              "word": "discontent",
+              "onomatopoeia": ["grumble"]
+            },
+            {
+              "word": "disdain",
+              "onomatopoeia": ["duh", "ho hum", "sniffle", "tsk", "uh-oh"]
+            },
+            {
+              "word": "disgust",
+              "onomatopoeia": ["phooey", "yuck", "ugh"]
+            },
+            {
+              "word": "dissapointment",
+              "onomatopoeia": ["aw"]
+            },
+            {
+              "word": "dissaproval",
+              "onomatopoeia": ["boo"]
+            },
+            {
+              "word": "doubt",
+              "onomatopoeia": ["ah", "hmpf", "humpf", "humph"]
+            },
+            {
+              "word": "enthusiasm",
+              "onomatopoeia": ["wahoo"]
+            },
+            {
+              "word": "enthusiastic talk",
+              "onomatopoeia": ["babble"]
+            },
+            {
+              "word": "excitement",
+              "onomatopoeia": ["yoo-hoo", "yahoo", "yeeha", "yippee"]
+            },
+            {
+              "word": "fatigue",
+              "onomatopoeia": ["phew"]
+            },
+            {
+              "word": "frustration",
+              "onomatopoeia": ["uggh"]
+            },
+            {
+              "word": "happiness",
+              "onomatopoeia": [
+                "hooray",
+                "hurrah",
+                "oh",
+                "yoo-hoo",
+                "yahoo",
+                "yay"
+              ]
+            },
+            {
+              "word": "impulsive talk",
+              "onomatopoeia": ["blurt"]
+            },
+            {
+              "word": "joy",
+              "onomatopoeia": ["hooray", "hurrah", "oh"]
+            },
+            {
+              "word": "laughter",
+              "onomatopoeia": ["guffaw", "ha-ha", "he-he"]
+            },
+            {
+              "word": "pain",
+              "onomatopoeia": [
+                "argh",
+                "arrgh",
+                "aargh",
+                "uggh",
+                "ouch",
+                "ow",
+                "yeow",
+                "yowl"
+              ]
+            },
+            {
+              "word": "regret",
+              "onomatopoeia": ["ah"]
+            },
+            {
+              "word": "relief",
+              "onomatopoeia": ["ah", "phew"]
+            },
+            {
+              "word": "sadness",
+              "onomatopoeia": ["sob"]
+            },
+            {
+              "word": "shock",
+              "onomatopoeia": ["yikes"]
+            },
+            {
+              "word": "surprise",
+              "onomatopoeia": ["aha", "wow", "huh", "oh", "oops"]
+            },
+            {
+              "word": "sympathy",
+              "onomatopoeia": ["aw"]
+            },
+            {
+              "word": "triumph",
+              "onomatopoeia": ["aha", "yay", "yippee"]
+            },
+            {
+              "word": "uncertainty",
+              "onomatopoeia": ["eh"]
+            }
+          ]
+        },
+        {
+          "category": "Bodily Sounds",
+          "children": [
+            {
+              "word": "Peeing",
+              "onomatopoeia": ["PZZZZZZ-DROP-DRIP"]
+            },
+            {
+              "word": "Pooping",
+              "onomatopoeia": ["PLOOOOP", "KA-PLOP"]
+            },
+            {
+              "word": "Farting",
+              "onomatopoeia": ["RRRRIIIIIIIIPPPPP", "FRAP", "PFFFFFFFFT"]
+            },
+            {
+              "word": "Groaning/moaning",
+              "onomatopoeia": ["ERGGGGH", "UUNNNNH"]
+            },
+            {
+              "word": "Belching",
+              "onomatopoeia": ["BUUUUURP", "BELLLCCH"]
+            },
+            {
+              "word": "Vomit",
+              "onomatopoeia": ["BAAARRRFFFF", "BLAACCH", "PUUUKE", "GAKK"]
+            },
+            {
+              "word": "HICCUP",
+              "onomatopoeia": ["HICCUP"]
+            },
+            {
+              "word": "AH-CHOO",
+              "onomatopoeia": ["AH-CHOO"]
+            },
+            {
+              "word": "CRY",
+              "onomatopoeia": ["SOB-HICK-SOB"]
+            },
+            {
+              "word": "GASP",
+              "onomatopoeia": ["GASP"]
+            },
+            {
+              "word": "HHHHHHAU",
+              "onomatopoeia": ["HHHHHHAU"]
+            },
+            {
+              "word": "WHEEEEZE",
+              "onomatopoeia": ["WHEEEEZE"]
+            },
+            {
+              "word": "SQUEEE",
+              "onomatopoeia": ["SQUEEE"]
+            },
+            {
+              "word": "UGGH",
+              "onomatopoeia": ["UGGH"]
+            },
+            {
+              "word": "OUCH",
+              "onomatopoeia": ["OUCH"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Devices, Electronics, Mechanical, Building",
+      "description": "Product and tool sounds",
+      "children": [
+        {
+          "category": "Devices",
+          "children": [
+            {
+              "word": "adding machine",
+              "onomatopoeia": [
+                "tap",
+                "tap",
+                "tap",
+                "whirrrr",
+                "crackle",
+                "krinkle"
+              ]
+            },
+            {
+              "word": "alarm clock",
+              "onomatopoeia": [
+                "BRAYNK",
+                "BRAYNK",
+                "Bee-dee dee-deep",
+                "Bee-dee-dee-deep",
+                "Dee-deedlee doo",
+                "dee-deedlee-doo",
+                "brrrring",
+                "brrrring",
+                "bzz bzz",
+                "beep beep beep",
+                "bzzzz",
+                "vbeep vbeep",
+                "beep beep",
+                "ring ring",
+                "ching ching",
+                "RIIINNNGGG",
+                "woo-op w-p-p w-woo woo-oop",
+                "ftweeeeeeee",
+                "buzzzz"
+              ]
+            },
+            {
+              "word": "alert",
+              "onomatopoeia": ["eeeoooeeeooo", "woo-woo-woo", "blare"]
+            },
+            {
+              "word": "amplifier",
+              "onomatopoeia": [
+                "Hummm",
+                "blare",
+                "rumble",
+                "zing",
+                "boom",
+                "boom",
+                "boom",
+                "wah wah wah wah"
+              ]
+            },
+            {
+              "word": "answering machine",
+              "onomatopoeia": ["beeep", "sssstttt", "whirr beep"]
+            },
+            {
+              "word": "baby monitor",
+              "onomatopoeia": [
+                "craccck",
+                "bzzzz",
+                "click",
+                "click",
+                "tick",
+                "tick",
+                "beep",
+                "beep",
+                "mamma mam mammmama",
+                "rinngg"
+              ]
+            },
+            {
+              "word": "blow dryer",
+              "onomatopoeia": [
+                "hummmmm",
+                "WHIRRRRRR",
+                "bzzzzzz",
+                "whizz",
+                "whoosh",
+                "zoom",
+                "rrrrrrrrrrrrrr"
+              ]
+            },
+            {
+              "word": "buzzer",
+              "onomatopoeia": [
+                "buzz",
+                "bzzz",
+                "hum",
+                "thisshigrrrerrk",
+                "crack"
+              ]
+            },
+            {
+              "word": "camcorder",
+              "onomatopoeia": ["whirrrr", "hummmm"]
+            },
+            {
+              "word": "camera",
+              "onomatopoeia": [
+                "click",
+                "whirr",
+                "zoom",
+                "snap",
+                "bzzt",
+                "bzzt",
+                "flash",
+                "flash",
+                "cfgklos"
+              ]
+            },
+            {
+              "word": "cash register",
+              "onomatopoeia": [
+                "ka-ching",
+                "cha-ching",
+                "ca-ching",
+                "che-c",
+                "whirr-r-r t"
+              ]
+            },
+            {
+              "word": "CD-ROM",
+              "onomatopoeia": [
+                "hum",
+                "clink",
+                "clang",
+                "cackle",
+                "babble",
+                "blabber",
+                "chatter",
+                "croon",
+                "grumble",
+                "jabber",
+                "mumble",
+                "rabble"
+              ]
+            },
+            {
+              "word": "clock",
+              "onomatopoeia": [
+                "tick",
+                "tock",
+                "tic toc",
+                "ding",
+                "ding",
+                "cuckcoo"
+              ]
+            },
+            {
+              "word": "coffee machine",
+              "onomatopoeia": ["sizzle", "fzzz", "slosh", "kerplop"]
+            },
+            {
+              "word": "computer",
+              "onomatopoeia": [
+                "groan",
+                "gweeze",
+                "murmur",
+                "glitch",
+                "beep",
+                "ping"
+              ]
+            },
+            {
+              "word": "copy machine",
+              "onomatopoeia": [
+                "CLTKTY",
+                "hummm",
+                "crackle",
+                "bing",
+                "blip",
+                "cltkty"
+              ]
+            },
+            {
+              "word": "CT scanner",
+              "onomatopoeia": [
+                "hisss",
+                "bzzzzz",
+                "beep",
+                "bleep",
+                "whirr",
+                "screech",
+                "clatter"
+              ]
+            },
+            {
+              "word": "dial tone",
+              "onomatopoeia": ["hmmmmmmmmm", "beep", "buzzzzz"]
+            },
+            {
+              "word": "doorbell",
+              "onomatopoeia": [
+                "ding dong",
+                "rrrriiinngggg",
+                "gong",
+                "clang",
+                "chime",
+                "ring-g",
+                "buzz",
+                "r-ring",
+                "jiggle",
+                "rattle"
+              ]
+            },
+            {
+              "word": "doorknocker",
+              "onomatopoeia": [
+                "rat-tat-tat",
+                "tap tap",
+                "clack clack",
+                "bang bang",
+                "knock knock",
+                "whack"
+              ]
+            },
+            {
+              "word": "earphone",
+              "onomatopoeia": [
+                "sssstttttt",
+                "whistle",
+                "ping pong",
+                "crinkle",
+                "crackle",
+                "hisss"
+              ]
+            },
+            {
+              "word": "electric pencil sharpener",
+              "onomatopoeia": ["grind grind", "whizz", "gweeze"]
+            },
+            {
+              "word": "electric timer",
+              "onomatopoeia": ["bing ring ding"]
+            },
+            {
+              "word": "fan",
+              "onomatopoeia": [
+                "whirrrr",
+                "buzz",
+                "scrack scrack",
+                "scraaaacccckkkkk"
+              ]
+            },
+            {
+              "word": "fax machine",
+              "onomatopoeia": ["beep"]
+            },
+            {
+              "word": "geiger counter",
+              "onomatopoeia": ["tap tap tap tap", "tink tink tink"]
+            },
+            {
+              "word": "horn",
+              "onomatopoeia": [
+                "beeeep",
+                "honk",
+                "BLURRT",
+                "HON-NK H HONK-K",
+                "HONK-A H-HONK",
+                "HON-N-N-K KHON-N-K H-HON-N-K",
+                "AU-OOGA"
+              ]
+            },
+            {
+              "word": "iPod",
+              "onomatopoeia": [
+                "drum",
+                "throb",
+                "thump",
+                "twang",
+                "plink",
+                "plunk",
+                "bong",
+                "ding",
+                "click"
+              ]
+            },
+            {
+              "word": "intercom",
+              "onomatopoeia": ["bzzzzz"]
+            },
+            {
+              "word": "keyboard",
+              "onomatopoeia": [
+                "click click click",
+                "tap tap",
+                "click clikkety",
+                "clikkety clik",
+                "plik",
+                "peck"
+              ]
+            },
+            {
+              "word": "lamp switch",
+              "onomatopoeia": ["click", "jingle", "jig"]
+            },
+            {
+              "word": "laser",
+              "onomatopoeia": ["pew", "pew", "zzzzzzttt"]
+            },
+            {
+              "word": "modem",
+              "onomatopoeia": ["beep", "bip", "whirr"]
+            },
+            {
+              "word": "movie camera",
+              "onomatopoeia": ["whirr", "whirrrrr"]
+            },
+            {
+              "word": "motor",
+              "onomatopoeia": ["whirr", "varoom", "rrrrrrrr", "brrrrrrrrrrrrrr"]
+            },
+            {
+              "word": "overworked hand calculator quits",
+              "onomatopoeia": ["pow", "pffft"]
+            },
+            {
+              "word": "pager",
+              "onomatopoeia": ["hiss", "buzz", "fzzz"]
+            },
+            {
+              "word": "paper shredder",
+              "onomatopoeia": [
+                "swoosh",
+                "Whirrrshhhhhhhcccchhh",
+                "crinklecrinkle",
+                "hummm",
+                "Bbbbbbbbbshhhhhhzzzzzzzzzzzzzzzzzzzz"
+              ]
+            },
+            {
+              "word": "pencil sharpener",
+              "onomatopoeia": ["grind", "grind", "whizz", "gweeze"]
+            },
+            {
+              "word": "phone",
+              "onomatopoeia": [
+                "bringg bringg",
+                "ssinda",
+                "sssssinda",
+                "buzz",
+                "RIN-N-N-G-G",
+                "beep boop",
+                "briiiing",
+                "rinng",
+                "ding"
+              ]
+            },
+            {
+              "word": "radio",
+              "onomatopoeia": [
+                "TA-RAH-H TA-TAH-H-H DUM-DE-DUM",
+                "BADOOLA BLAM",
+                "THUNKA"
+              ]
+            },
+            {
+              "word": "record player",
+              "onomatopoeia": [
+                "croon",
+                "dirnt",
+                "doo wop",
+                "doo wah",
+                "hum",
+                "plunk",
+                "thrum",
+                "twang"
+              ]
+            },
+            {
+              "word": "salad spinner",
+              "onomatopoeia": ["phoot phut"]
+            },
+            {
+              "word": "siren",
+              "onomatopoeia": [
+                "reeeeeeeeee",
+                "woop",
+                "weeo",
+                "BWEEP bip bip BWEEP",
+                "eeeeeee",
+                "eeeoooeeeooo",
+                "woo woo-woo",
+                "weeeoooeee"
+              ]
+            },
+            {
+              "word": "television",
+              "onomatopoeia": ["hummm", "bzzzzzz", "shhhhhhhhhh"]
+            },
+            {
+              "word": "television remote",
+              "onomatopoeia": ["tink", "click", "clik", "clic", "snap"]
+            },
+            {
+              "word": "typewriter",
+              "onomatopoeia": [
+                "ticka-tick",
+                "plik",
+                "clickety plick",
+                "peck",
+                "tap"
+              ]
+            },
+            {
+              "word": "ultrasound",
+              "onomatopoeia": ["hmmmmm", "whirrrrrrrrr"]
+            },
+            {
+              "word": "VCR",
+              "onomatopoeia": ["bzzzzz", "ssssssttttt", "ssshhhhhhhh"]
+            },
+            {
+              "word": "video tape recorder",
+              "onomatopoeia": ["rrrrrrrrrrrrrrrr", "whirrr"]
+            },
+            {
+              "word": "video game",
+              "onomatopoeia": [
+                "zap",
+                "dodogyuuun",
+                "crash",
+                "bash",
+                "thwack",
+                "whomp",
+                "vroom"
+              ]
+            },
+            {
+              "word": "X-ray",
+              "onomatopoeia": ["fzzzzz", "grrrrrrr", "gweeze", "murmur"]
+            }
+          ]
+        },
+        {
+          "category": "Mechanical",
+          "children": [
+            {
+              "word": "Engines",
+              "onomatopoeia": [
+                "Brum-rum-rum-rum",
+                "Br-r-r-r-r-r",
+                "Whirrrrr",
+                "Putt-putt-putt-putt",
+                "Chuggachuggachugga",
+                "Chook-chook-chook-chook"
+              ]
+            },
+            {
+              "word": "Gears wheels",
+              "onomatopoeia": [
+                "Ka-chink ka-chunk ka-chink ka-chunk",
+                "Click clack click clack",
+                "Tick tick/tick tock/tick tack"
+              ]
+            },
+            {
+              "word": "Planes",
+              "onomatopoeia": [
+                "(Fly by) rrrrrrrrrrrrrRRRRRRRRRRRRRRRRrrrrrrrrrrrrrrr.. nyeeeeeeeaaaarrrrRRRRRRRRRRrrrrrummmm mmm.....",
+                "(Flying) URRRRRRRRRRRRRRRRRRRR",
+                "(Landing) ...RRRRR(donk)RRRRR(donk, donk, SQUEEEEAK!,/URRRRRT!)RRRRRrrrrrrrrr..."
+              ]
+            },
+            {
+              "word": "Vehicles",
+              "onomatopoeia": [
+                "(see engines)",
+                "(Horn) Beep beep! Honk honk! Meep meep! Bwaaah!",
+                "(Brakes) Squeeak! Squeal! Eerrrrt! Urrrrrt!"
+              ]
+            },
+            {
+              "word": "Sirens",
+              "onomatopoeia": [
+                "UrrrRRRRRRRRrrrrrr!",
+                "WEEoooWEEoooWEEooo!",
+                "Woowoowoowoowoowoo!",
+                "Wahmp! Wahmp! Wahmp! Wahmp!",
+                "Doo-DEE-Doo-DEE!",
+                "ERNT-ERNT-ERNT-ERNT!"
+              ]
+            },
+            {
+              "word": "Boats",
+              "onomatopoeia": [
+                "(Paddle boat) Kloosh-kloosh-kloosh-kloosh Gloosh-gloosh-gloosh-gloosh",
+                "(Motor boat) Gloojsssshhhhhhhhh Blub-blub-blub-blub-blub"
+              ]
+            },
+            {
+              "word": "Other Machinery",
+              "onomatopoeia": [
+                "Ka-chunk wheeeeeeeeeeeerrrrrrrrrt ka-chunk Klonk klonk klonk klonk",
+                "Ka-dink ka-donk ka-dink ka-donk",
+                "Ka-klatch! Fweeeeeeeeoooo",
+                "Whoosh-uh-whush-uh-whoosh-uh-whush Br-r-r-rt",
+                "Ba-ding!"
+              ]
+            }
+          ]
+        },
+        {
+          "category": "Sounds in a Building",
+          "children": [
+            {
+              "word": "Washing Machine",
+              "onomatopoeia": [
+                "wishety whir",
+                "roooooom swish",
+                "woom woom woom"
+              ]
+            },
+            {
+              "word": "Dryer",
+              "onomatopoeia": ["fwunkety wunkety", "slunkety (with shoes)"]
+            },
+            {
+              "word": "Door",
+              "onomatopoeia": [
+                "creeeeak",
+                "knock knock knock",
+                "tap tap tap",
+                "bang (door closing)",
+                "slam (door closing)"
+              ]
+            },
+            {
+              "word": "Doorbell",
+              "onomatopoeia": ["ding", "dong", "ding dong"]
+            },
+            {
+              "word": "Fire alarm",
+              "onomatopoeia": ["bweeee"]
+            },
+            {
+              "word": "Oven Timer",
+              "onomatopoeia": ["bing", "ding", "beep beep beep"]
+            },
+            {
+              "word": "Water in the sink",
+              "onomatopoeia": ["gurgle", "burble"]
+            },
+            {
+              "word": "Water in the tub",
+              "onomatopoeia": [
+                "kerplunk (something heavy being dropped into water)",
+                "plop (something being dropped into water)"
+              ]
+            },
+            {
+              "word": "Window",
+              "onomatopoeia": [
+                "kssssssshh (closing)",
+                "dot a dot dot (rain hitting window)",
+                "pitter patter pitter patter (rain hitting window)"
+              ]
+            },
+            {
+              "word": "Refrigerator",
+              "onomatopoeia": ["brrrrmmm", "hummmm"]
+            },
+            {
+              "word": "Construction vehicle backing up",
+              "onomatopoeia": ["beep beep beep beep"]
+            },
+            {
+              "word": "Drill",
+              "onomatopoeia": ["rizzz", "bzzzzzz"]
+            },
+            {
+              "word": "Bulldozer",
+              "onomatopoeia": [
+                "rrrrrrrrrrrr",
+                "rrrrrr tick a tick a tick a tick a rrrrrr"
+              ]
+            },
+            {
+              "word": "Jackhammer",
+              "onomatopoeia": ["rat tat tat tat tat tat"]
+            },
+            {
+              "word": "Hammer",
+              "onomatopoeia": [
+                "clang (hitting metal)",
+                "bang bang bang",
+                "knock knock knock"
+              ]
+            },
+            {
+              "word": "Saw",
+              "onomatopoeia": ["rr-rr-rr-rr"]
+            },
+            {
+              "word": "Chainsaw",
+              "onomatopoeia": [
+                "wher wher wher",
+                "brum-brum-brum brum-brrrrrrrrrrrrrrrrrrrrr"
+              ]
+            },
+            {
+              "word": "House settling",
+              "onomatopoeia": ["snap", "crack", "groooan"]
+            },
+            {
+              "word": "Lock turning",
+              "onomatopoeia": ["click"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sounds in the country",
+      "description": "Smaller accessible list of sounds categorized by their location",
+      "children": [
+        {
+          "word": "Cicadas",
+          "onomatopoeia": [
+            "Shrill Sound",
+            "Harsh",
+            "High pitched",
+            "Jarring",
+            "Penetrating",
+            "Piercing",
+            "Screech",
+            "Sharp",
+            "Shriek",
+            "Trill"
+          ]
+        },
+        {
+          "word": "Crickets",
+          "onomatopoeia": ["Chatter", "Chirp", "Ring"]
+        },
+        {
+          "word": "Blackbird",
+          "onomatopoeia": ["Caw"]
+        },
+        {
+          "word": "Chicken",
+          "onomatopoeia": ["Squawk", "Crow", "Bawk"]
+        },
+        {
+          "word": "Owls",
+          "onomatopoeia": ["Hoot", "Flap"]
+        },
+        {
+          "word": "Song Birds",
+          "onomatopoeia": ["Chirp", "Tweet", "Whip-poor-wil"]
+        },
+        {
+          "word": "Wood Hens",
+          "onomatopoeia": ["Cackling"]
+        },
+        {
+          "word": "Dogs",
+          "onomatopoeia": ["Bark"]
+        },
+        {
+          "word": "Coyotes",
+          "onomatopoeia": [
+            "Bark-Yap",
+            "Groan",
+            "Growl",
+            "Snarl",
+            "Howl",
+            "Yelp"
+          ]
+        },
+        {
+          "word": "Creek",
+          "onomatopoeia": [
+            "Gurgle",
+            "Murmur",
+            "Ripple",
+            "Swish",
+            "Swirl",
+            "Swoosh",
+            "Whisper"
+          ]
+        },
+        {
+          "word": "Frogs",
+          "onomatopoeia": ["Croak", "Kwaak", "Ribbit"]
+        },
+        {
+          "word": "Old Houses",
+          "onomatopoeia": [
+            "Bash",
+            "Bang",
+            "Bump",
+            "Crack",
+            "Creak",
+            "Groan",
+            "Pop",
+            "Snap",
+            "Screech",
+            "Squeak",
+            "Whack",
+            "Wallop"
+          ]
+        },
+        {
+          "word": "Mountain Stream",
+          "onomatopoeia": ["Drip", "Gurgle", "Ripple", "Roar", "Shhh"]
+        },
+        {
+          "word": "River",
+          "onomatopoeia": [
+            "Groans",
+            "Gurgles",
+            "Rages",
+            "Ripples",
+            "Rushes",
+            "Swirls",
+            "Swooshes"
+          ]
+        },
+        {
+          "word": "Rain",
+          "onomatopoeia": [
+            "Drip",
+            "Drop",
+            "Patter",
+            "Pitter",
+            "Torrent",
+            "Trickle",
+            "Splatter",
+            "Spray"
+          ]
+        },
+        {
+          "word": "Rapids",
+          "onomatopoeia": [
+            "Bellow",
+            "Boom",
+            "Groan",
+            "Gurgle",
+            "Roar",
+            "Rumble",
+            "Swirl",
+            "Swish",
+            "Swoosh",
+            "Thunder",
+            "Wail"
+          ]
+        },
+        {
+          "word": "Roads",
+          "onomatopoeia": [
+            "Clang",
+            "Dust Boils on dirt roads",
+            "Gravels Whiz",
+            "Potholes Bump"
+          ]
+        },
+        {
+          "word": "Trees",
+          "onomatopoeia": [
+            "Breaking Branches Crack",
+            "Crackling Crunching Leaves",
+            "Cracking Noises",
+            "Falling Trees Crash",
+            "Leaves Flip-Flap when it rains",
+            "Rustling"
+          ]
+        },
+        {
+          "word": "Storms",
+          "onomatopoeia": [
+            "Lightning Cracks when it strikes trees",
+            "Rain Gushes in torrents off the mountains",
+            "Streams Roar as they Rush of the hillsides",
+            "Thunder dooms from mountain to mountain",
+            "Rain pounds roofs"
+          ]
+        },
+        {
+          "word": "Wind",
+          "onomatopoeia": [
+            "Breathe",
+            "Cry",
+            "Groan",
+            "Hiss",
+            "Murmur",
+            "Scream",
+            "Sigh",
+            "Utter",
+            "Whisper"
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Sounds of a city",
+      "children": [
+        {
+          "category": "ANIMALS",
+          "children": [
+            {
+              "word": "Dog",
+              "onomatopoeia": ["Bark", "Growl", "Snarl", "Woof", "Aaooooo"]
+            },
+            {
+              "word": "Cats",
+              "onomatopoeia": ["Mew", "Meow"]
+            },
+            {
+              "word": "Rats",
+              "onomatopoeia": ["Scuttle", "Scury"]
+            },
+            {
+              "word": "Pigeons",
+              "onomatopoeia": ["Coo coo", "Peck"]
+            },
+            {
+              "word": "Birds",
+              "onomatopoeia": ["Tweet", "Twit", "Warble"]
+            }
+          ]
+        },
+        {
+          "category": "BUILDINGS",
+          "children": [
+            {
+              "word": "Door sliding",
+              "onomatopoeia": ["Sploo", "Woosh"]
+            },
+            {
+              "word": "Door closing",
+              "onomatopoeia": ["Bam", "Slam"]
+            },
+            {
+              "word": "Door locking",
+              "onomatopoeia": ["Click"]
+            },
+            {
+              "word": "Elevator",
+              "onomatopoeia": ["Ding", "Swish"]
+            },
+            {
+              "word": "Air-conditioning",
+              "onomatopoeia": ["Buzz", "Hmmm", "Hummm"]
+            },
+            {
+              "word": "Windows opening shutting",
+              "onomatopoeia": ["Slam", "Slap"]
+            }
+          ]
+        },
+        {
+          "category": "STREET",
+          "children": [
+            {
+              "word": "CAMERA",
+              "onomatopoeia": ["Click"]
+            },
+            {
+              "word": "CELL PHONE",
+              "onomatopoeia": ["Buzz", "Brring", "Ring"]
+            },
+            {
+              "word": "CROWDS",
+              "onomatopoeia": ["Blah blah", "Boo", "Cheer", "Hubub", "Hiss"]
+            },
+            {
+              "word": "FOUNTAIN",
+              "onomatopoeia": ["Splash", "Splish", "Splatter", "Pshh"]
+            },
+            {
+              "word": "MONEY",
+              "onomatopoeia": ["Ca-ching", "Plong", "Pling"]
+            },
+            {
+              "word": "PRAM/STROLLER",
+              "onomatopoeia": ["Scrrrr", "Woosh"]
+            },
+            {
+              "word": "SCHOOL BELL",
+              "onomatopoeia": ["Beep", "Prttt"]
+            },
+            {
+              "word": "SKATE BOARD",
+              "onomatopoeia": ["Swish", "Scoot", "Skrr", "Whir", "Woosh"]
+            },
+            {
+              "word": "STAIRS",
+              "onomatopoeia": ["Step step", "Tap tap"]
+            },
+            {
+              "word": "STREET SOCCER/BASKETBALL",
+              "onomatopoeia": ["Boom", "Jump", "Ka-ch", "Thud", "Thump"]
+            },
+            {
+              "word": "TOWN BELL/ CHURCH BELL",
+              "onomatopoeia": ["Boom boom", "Ding dong"]
+            }
+          ]
+        },
+        {
+          "category": "TRAFFIC/ TRANSPORT",
+          "children": [
+            {
+              "word": "Airplane",
+              "onomatopoeia": ["Roar", "Zoom"]
+            },
+            {
+              "word": "Bicycle",
+              "onomatopoeia": ["Ding ding", "Zoom"]
+            },
+            {
+              "word": "Bus/ Car/ Taxi",
+              "onomatopoeia": [
+                "Beep",
+                "Brmmmm",
+                "Broom",
+                "Honk",
+                "Screetch",
+                "Slam",
+                "Swish"
+              ]
+            },
+            {
+              "word": "Car crash",
+              "onomatopoeia": [
+                "Bam",
+                "Crash",
+                "Crunch",
+                "Screetch",
+                "Skid",
+                "Slam"
+              ]
+            },
+            {
+              "word": "Car alarm",
+              "onomatopoeia": ["Beep beep beep", "Eep"]
+            },
+            {
+              "word": "Emergency Services",
+              "onomatopoeia": ["Wee woo", "Wee Uuu"]
+            },
+            {
+              "word": "Helicopter",
+              "onomatopoeia": ["Chop chop", "Chka chka"]
+            },
+            {
+              "word": "Horn blowing",
+              "onomatopoeia": ["Beep", "Honk"]
+            },
+            {
+              "word": "Street Sweeper",
+              "onomatopoeia": ["Bzzz", "Swish"]
+            },
+            {
+              "word": "Subway",
+              "onomatopoeia": ["Whoosh"]
+            },
+            {
+              "word": "Subway vents",
+              "onomatopoeia": ["Shh", "Whoosh"]
+            },
+            {
+              "word": "Traffic light",
+              "onomatopoeia": ["Tick tick", "Bleep bleep"]
+            },
+            {
+              "word": "Train",
+              "onomatopoeia": ["Chug a chugga", "Ca-tshhh", "Tshh"]
+            },
+            {
+              "word": "Tram",
+              "onomatopoeia": ["Ding ding", "Screetch", "Ca-tshhh"]
+            },
+            {
+              "word": "WALKING STICK",
+              "onomatopoeia": ["Tap tap"]
+            }
+          ]
+        },
+        {
+          "category": "WEATHER",
+          "children": [
+            {
+              "word": "Walking through puddles",
+              "onomatopoeia": ["Splash", "Splish", "Splosh", "Splat"]
+            },
+            {
+              "word": "Wind blowing through buildings",
+              "onomatopoeia": ["Shhh", "Whoosh"]
+            },
+            {
+              "word": "Umbrella",
+              "onomatopoeia": ["Flap", "Snap"]
+            },
+            {
+              "word": "Snowing",
+              "onomatopoeia": ["Pat pat", "Pud pud", "Plod", "Pfll", "Splat"]
+            },
+            {
+              "word": "Leafs – walking through on pavement",
+              "onomatopoeia": ["Crisp", "Crunch", "Scrunch"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
